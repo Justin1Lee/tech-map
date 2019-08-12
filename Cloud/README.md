@@ -2,6 +2,9 @@
 
 ## IAAS
 
+<<<<<<< HEAD
+[Virtualization]: Virtualization/README.md
+=======
 ### Virtualization
 
 #### Virtualization architectures
@@ -13,6 +16,7 @@
 ##### XEN
 
 ##### KVM
+>>>>>>> c52d9474449ed605c4085fee17ce5a3415bfb5ab
 
 ### Container
 
