@@ -2,18 +2,7 @@
 
 ## IAAS
 
-[Virtualization]: Virtualization/README.md
-### Virtualization
-
-#### Virtualization architectures
-
-##### ESX
-
-##### Hyper-V
-
-##### XEN
-
-##### KVM
+[Virtualization]: ./Virtualization/README.md
 ### Container
 
 ## PAAS
